@@ -10,13 +10,13 @@
 
 "Restart CarPlay" = "Reiniciar CarPlay";
 
-"Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "Elige tu opción\nSi solo quieres reiniciar la pantalla CarPlay selecciona la primera opción.";
+"Choose your option\If you just want to restart the CarPlay screen select the first option." = "Elige tu opción\Si solo quieres reiniciar la pantalla de CarPlay selecciona la primera opción.";
 
-"Reflect Change on CarPlay" = "Refleja los cambio en CarPlay";
+"Reflect Change on CarPlay" = "Reflejar los cambio en CarPlay";
 
-"Reset Icon Layout" = "Restablecer diseño de iconos";
+"Reset Icon Layout" = "Reestablecer la presentación de iconos";
 
-"Let's change the layout of the CarPlay screen." = "Cambia el diseño de CarPlay.";
+"Let's change the layout of the CarPlay screen." = "Cambia la presentación de CarPlay.";
 
 "Change the wallpaper to your liking." = "Cambia el fondo de pantalla a tu gusto";
 
@@ -26,11 +26,11 @@
 
 "Added Widgets" = "Widgets agregados";
 
-"No Widgets added" = "Ningún widgets agregado";
+"No Widgets added" = "Ningún widget agregado";
 
 "Add Widget" = "Añadir widget";
 
-"Add your favorite widgets to your CarPlay." = "Agregue sus widgets favoritos a su CarPlay.";
+"Add your favorite widgets to your CarPlay." = "Agregue sus widgets favoritos a CarPlay.";
 
 "Support" = "Soporte";
 
@@ -46,13 +46,13 @@
 
 "Customize the status bar to your liking !!" = "Personaliza la barra de estado a tu gusto!!";
 
-"App selection" = "Selección de aplicaciones";
+"App selection" = "Selección de Apps";
 
 "Precautions" = "Precauciones";
 
-"App to reflect" = "Aplicación para reflexionar";
+"App to reflect" = "App a mostrar";
 
-"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "La aplicación seleccionada de esta manera obtiene la vista de la aplicación de una manera diferente a CarBridge.\nPor lo tanto, tenga en cuenta que funciona de manera diferente a CarBridge.";
+"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "La App seleccionada de esta manera obtiene la vista de la aplicación de una manera diferente a CarBridge.\nPor lo tanto, tenga en cuenta que funciona de manera diferente a CarBridge.";
 
 "Backup/Restore" = "Respaldo/Restaurar";
 
