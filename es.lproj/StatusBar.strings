@@ -1,4 +1,4 @@
-"Enable  / Disable" = "habilitar / deshabilitar";
+"Enable  / Disable" = "Habilitar / Deshabilitar";
 
 "Enable or Disable the entire Status Bar" = "Habilitar o deshabilitar toda la configuración de barra de estado";
 
@@ -6,11 +6,11 @@
 
 "Disable Status Bar" = "Deshabilitar barra de estado original";
 
-"Show or hide the default status bar" = "Show or hide the default status bar";
+"Show or hide the default status bar" = "Mostrar u ocultar la barra de estado original";
 
-"this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "esta función elimina la barra de estado original, si desea mostrar la barra de estado original, desactive esta función para mostrar el original.";
+"this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "Esta función elimina la barra de estado original.  Si desea mostrar la barra de estado original, desactive esta opción.";
 
-"Status bar date format" = "Formato de fecha de la barra de estado";
+"Status bar date format" = "Formato de fecha en la barra de estado";
 
 "Enter @ if you want to start a new line." = "Ingrese @ si desea comenzar una nueva línea.";
 
@@ -24,15 +24,15 @@
 
 "Font Size: %i" = "Tamaño de letra: %i";
 
-"Y Axis :" = "Y Axis :";
+"Y Axis :" = "Eje Y :";
 
 "Status bar position" = "Posición de la barra de estado";
 
-"This option to apply the changes you need to restart CarPlay." = "Esta opción para aplicar los cambios necesita reiniciar CarPlay.";
+"This option to apply the changes you need to restart CarPlay." = "Esta opción para aplicar los cambios y se necesita reiniciar CarPlay.";
 
 "Weather Settings" = "Configuración del clima";
 
-"Show weather icon" = "Mostrar icono del tiempo";
+"Show weather icon" = "Mostrar icono del clima";
 
 "Show temperature" = "Mostrar temperatura";
 
