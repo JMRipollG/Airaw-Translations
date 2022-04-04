@@ -1,4 +1,4 @@
-"Enabled / Disable" = "habilitar / deshabilitar";
+"Enabled / Disable" = "Habilitar / Deshabilitar";
 
 "Enabled" = "Habilitar";
 
@@ -6,9 +6,9 @@
 
 "Icon Layout" = "Diseño de Iconos";
 
-"CarPlay wallpaper customization" = "Personalización Wallpaper de CarPlay";
+"CarPlay wallpaper customization" = "Personalización Fondo de Pantalla de CarPlay";
 
-"CarPlay Wallpaper" = "Personalizar Wallpaper";
+"CarPlay Wallpaper" = "Personalizar Fondo de Pantalla";
 
 "Status bar customization" = "Personalizar barra de estado";
 
@@ -26,7 +26,7 @@
 
 "Developer Repository" = "Repositorio de Developer";
 
-"App Selection" = "Seleccionar aplicación";
+"App Selection" = "Seleccionar App";
 
 "Other" = "Otros";
 
@@ -34,4 +34,4 @@
 
 "Special Thanks" = "Agradecimientos";
 
-"The second option is used to choose applications to have in full screen mode." = "La segunda opción es para elegir cual aplicaciones que tener en pantalla completa.";
+"The second option is used to choose applications to have in full screen mode." = "La segunda opción es para elegir cuales Apps se mostrar'an en pantalla completa.";
